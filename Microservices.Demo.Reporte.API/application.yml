@@ -1,2 +1,3 @@
-ConnectionStrings: 
-    ProductConnection: Data Source=microservices.demo.product.db;Initial Catalog=Microservices.Demo.Product;Persist Security Info=True;User ID=master;Password=Password21
+ServicesUrl:
+    ProductApiUrl: http://Microservices.Demo.Product.API/api/products
+    PolicyApiUrl: http://Microservices.Demo.Product.API/api/policies
